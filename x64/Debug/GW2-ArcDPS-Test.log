@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  arcdps_combatdemo.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating Code...
+     Creating library .\d3d9_arcdps_test.lib and object .\d3d9_arcdps_test.exp
+  GW2-ArcDPS-Test.vcxproj -> C:\Users\delta\Desktop\GW2-ArcDPS-Test\.\d3d9_arcdps_test.dll
